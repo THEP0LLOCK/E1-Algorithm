@@ -1,1 +1,11 @@
-# E1-Algorithm
+# E1
+'''c
+#include <stdio.h>
+int main(void)
+{
+
+
+
+
+return 0;
+}
